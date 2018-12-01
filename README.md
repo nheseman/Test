@@ -16,8 +16,9 @@
 <br>
 <h2 align="center"> Give it a try on Heroku </h2>
 
+<div align="center">
 [![Try on Heroku](assets/img/heroku-logo.jpg)](https://fathomless-eyrie-21415.herokuapp.com/)
-
+</div>
 
 <br><br><br>
 <h1 align="center"> Screenshots </h1>

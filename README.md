@@ -10,11 +10,11 @@
 
 <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In arcu eros, aliquam sit amet interdum nec, interdum in nulla. Suspendisse lacinia lacinia velit, non dapibus lacus fermentum at. Praesent laoreet leo non convallis venenatis. Ut auctor lacus eget leo aliquam, non pharetra lectus dapibus. Vestibulum in tristique est. Cras viverra felis eu lectus viverra, vel commodo elit sodales. Proin ut varius risus. Pellentesque purus turpis, placerat ut sodales laoreet, scelerisque sed neque. Nulla sapien sapien, accumsan nec cursus in, pulvinar a leo. Nulla facilisi. Sed interdum, ipsum non placerat cursus, justo mi accumsan dui, in condimentum tellus nibh dapibus quam. Quisque a lacus laoreet enim suscipit ullamcorper eget suscipit libero. Aliquam varius nec arcu a condimentum. Aliquam vulputate sem odio, at efficitur neque lacinia vel.</h3><br>
 
-<center><h1> Contributors: </h1></center>
+<h1 align="center"> Contributors: </h1>
 
-<center><h2>Carson Curry * Thomas Fricke * Nathan Heseman * Gezahegn Worku</h2></center><br>
+<h2 align="center">Carson Curry * Thomas Fricke * Nathan Heseman * Gezahegn Worku</h2><br>
 <br>
-<center><h2S> Give it a try on Heroku </h2S></center>
+<center><h2> Give it a try on Heroku </h2></center>
 
 <center>
 

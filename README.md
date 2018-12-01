@@ -17,7 +17,7 @@
 <h2> Give it a try on Heroku </h2>
 
 
-[![Try on Heroku](assets/img/heroku1.png)](https://fathomless-eyrie-21415.herokuapp.com/)
+[![Try on Heroku](assets/img/Heroku1.png)](https://fathomless-eyrie-21415.herokuapp.com/)
 
 
 <br><br><br>

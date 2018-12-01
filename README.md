@@ -1,4 +1,3 @@
-
 <h1><p align="center"><img alt="headerGif" src="assets/img/elephant.png" height= "300" width= "300"></p></h1>
 
 
@@ -29,6 +28,7 @@
 <p align="center"><img alt="screenshot2" src="assets/img/test.gif" width="724"></p><br>
 
 <p align="center"><img alt="screenshot3" src="assets/img/test.gif" width="649"></p>
+
 
 
 

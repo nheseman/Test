@@ -14,8 +14,8 @@
 
 <h2 align="center">Carson Curry * Thomas Fricke * Nathan Heseman * Gezahegn Worku</h2><br>
 <br>
-<h2> Give it a try on Heroku </h2>
 
+### *Give it a try on Heroku* 
 
 [![Try on Heroku](assets/img/Heroku1.png)](https://fathomless-eyrie-21415.herokuapp.com/)
 

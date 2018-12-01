@@ -1,34 +1,34 @@
-# Test
-<h1><img alt="Buildkite Secret Santa 2016" src="logo.gif" width="550"></h1>
 
-[Buildkite](https://buildkite.com/)’s Secret Santa 2016 build pipeline, to find out xmas pressie hints from everyone, and notify each of us with who we’re buying for and what their hint was.
+<h1><p align="center"><img alt="headerGif" src="assets/img/elephant.png" height= "300" width= "300"></p></h1>
 
-## How does it work?
 
-The build pipeline:
+<center><h1>Introducing the Virtual Elephant Gift Exchange!!! The online way to swap gift when you can't be together.</h1></center><br>
+<p align="center"><img alt="homeImg" src="assets/img/homePage.gif"></p><br>
+<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In arcu eros, aliquam sit amet interdum nec, interdum in nulla. Suspendisse lacinia lacinia velit, non dapibus lacus fermentum at. Praesent laoreet leo non convallis venenatis. Ut auctor lacus eget leo aliquam, non pharetra lectus dapibus. Vestibulum in tristique est. Cras viverra felis eu lectus viverra, vel commodo elit sodales. Proin ut varius risus. Pellentesque purus turpis, placerat ut sodales laoreet, scelerisque sed neque. Nulla sapien sapien, accumsan nec cursus in, pulvinar a leo. Nulla facilisi. Sed interdum, ipsum non placerat cursus, justo mi accumsan dui, in condimentum tellus nibh dapibus quam. Quisque a lacus laoreet enim suscipit ullamcorper eget suscipit libero. Aliquam varius nec arcu a condimentum. Aliquam vulputate sem odio, at efficitur neque lacinia vel.</h3>
 
-* [pipeline/pipeline.bash](pipeline/pipeline.bash) - generates the Buildkite pipeline that requests Secret Santa hints from everyone.
-* [pipeline/readme.bash](pipeline/readme.bash) - the first step in the pipeline that welcomes everyone to this year’s Secret Santa.
-* [pipeline/magical-unicorns.bash](pipeline/magical-unicorns.bash) - the last step in the pipeline: a brilliantly red magical unicorn.
+## *How does it work?*
 
-The webhook receiver:
+<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In arcu eros, aliquam sit amet interdum nec, interdum in nulla. Suspendisse lacinia lacinia velit, non dapibus lacus fermentum at. Praesent laoreet leo non convallis venenatis. Ut auctor lacus eget leo aliquam, non pharetra lectus dapibus. Vestibulum in tristique est. Cras viverra felis eu lectus viverra, vel commodo elit sodales. Proin ut varius risus. Pellentesque purus turpis, placerat ut sodales laoreet, scelerisque sed neque. Nulla sapien sapien, accumsan nec cursus in, pulvinar a leo. Nulla facilisi. Sed interdum, ipsum non placerat cursus, justo mi accumsan dui, in condimentum tellus nibh dapibus quam. Quisque a lacus laoreet enim suscipit ullamcorper eget suscipit libero. Aliquam varius nec arcu a condimentum. Aliquam vulputate sem odio, at efficitur neque lacinia vel.</h3><br>
 
-* [notifier/index.js](notifier/index.js) - the AWS Lambda function that accepts the `job.finished` webhook from Buildkite, randomly assigns secret santas, and emails everyone with the hint and delivery address.
-* [notifier/job-event-processor.js](notifier/index.js) - extracts the information submitted by everyone from the webhook’s build meta-data.
-* [notifier/secret-santa.js](notifier/index.js) - randomly assigns each secret santa based on a determistic seed value for safe re-execution. The seed is read from an environment variable so it can be changed at the last minute, to keep the "secret" in "Secret Santa".
+<center><h1> Contributors: </h1></center>
 
-## Give it a try
+<center><h1>Carson Curry * Thomas Fricke * Nathan Heseman * Gezahegn Worku</h1></center><br>
+<br>
+<center><h2> Give it a try on Heroku </h2></center>
 
-[![Add to Buildkite](https://buildkite.com/button.svg)](https://buildkite.com/new)
+<center>
 
-## Thanks
+[![Try on Heroku](assets/img/heroku-logo.jpg)](https://fathomless-eyrie-21415.herokuapp.com/)
 
-Massive props to the brilliant [Carla Hackett](http://carlahackett.com/) for the beaut lettering 👌
+</center>
+<br><br><br>
+ <center><h1> Screenshots </h1></center>
+<br>
+<p align="center"><img alt="screenshot1" src="assets/img/test.gif"></p><br>
 
-## Screenshots
+<p align="center"><img alt="screenshot2" src="assets/img/test.gif" width="724"></p><br>
 
-<p align="center"><img alt="Buildkite Secret Santa 2016" src="screenshot.png"></p>
+<p align="center"><img alt="screenshot3" src="assets/img/test.gif" width="649"></p>
 
-<p align="center"><img alt="Buildkite Secret Santa 2016 Unblock Prompt Animation" src="screenshot-unblock.gif" width="724"></p>
 
-<p align="center"><img alt="Buildkite Secret Santa 2016 Email" src="screenshot-email-notification.png" width="649"></p>
+

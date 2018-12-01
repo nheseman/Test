@@ -11,9 +11,9 @@
 
 <center><h1> Contributors: </h1></center>
 
-<center><h1>Carson Curry * Thomas Fricke * Nathan Heseman * Gezahegn Worku</h1></center><br>
+<center><h2>Carson Curry * Thomas Fricke * Nathan Heseman * Gezahegn Worku</h2></center><br>
 <br>
-<center><h4> Give it a try on Heroku </h4></center>
+<center><h2S> Give it a try on Heroku </h2S></center>
 
 <center>
 

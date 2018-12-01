@@ -13,7 +13,7 @@
 
 <center><h1>Carson Curry * Thomas Fricke * Nathan Heseman * Gezahegn Worku</h1></center><br>
 <br>
-<center><h2> Give it a try on Heroku </h2></center>
+<center><h3> Give it a try on Heroku </h3></center>
 
 <center>
 
